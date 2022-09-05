@@ -1,0 +1,4 @@
+STORE_NAME = "wizardtraffic0002"
+TOKEN = "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"
+VARIANT_ID = "39411485737089"
+
